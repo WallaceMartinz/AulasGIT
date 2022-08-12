@@ -1,2 +1,3 @@
-# AulasGIT
-Repositório para estudos de GIT 
+# Aula GIT GIThub 
+## Iniciando
+:zap:
